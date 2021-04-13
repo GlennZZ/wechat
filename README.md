@@ -2,13 +2,13 @@
 
 ##### 1.导入代码，使用composer
 ```php
-composer required luweiss/wechat:dev-master
+composer required GlennZZ/wechat:dev-master
 ```
 
 ##### 2.开始使用
 ```php
 require 'vender/autoload.php';
-$wechat = new \luweiss\wechat\Wechat([
+$wechat = new \GlennZZ\wechat\Wechat([
     'appId' => '',
     'appSecret' => '',
     'mchId' => '',
