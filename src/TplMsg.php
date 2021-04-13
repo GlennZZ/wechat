@@ -6,7 +6,7 @@
  * Time: 20:12
  */
 
-namespace GlennZZ\wechat;
+namespace glennz\wechat;
 
 
 class TplMsg extends Base

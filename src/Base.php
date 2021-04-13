@@ -6,7 +6,7 @@
  * Time: 11:32
  */
 
-namespace GlennZZ\wechat;
+namespace glennz\wechat;
 
 
 abstract class Base

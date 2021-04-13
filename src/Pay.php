@@ -6,7 +6,7 @@
  * Time: 10:18
  */
 
-namespace GlennZZ\wechat;
+namespace glennz\wechat;
 
 
 class Pay extends Base

@@ -6,7 +6,7 @@
  * Time: 19:41
  */
 
-namespace GlennZZ\wechat;
+namespace glennz\wechat;
 
 
 class DataTransform

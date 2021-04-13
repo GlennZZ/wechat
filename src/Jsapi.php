@@ -6,7 +6,7 @@
  * Time: 11:37
  */
 
-namespace GlennZZ\wechat;
+namespace glennz\wechat;
 
 
 class Jsapi extends Base

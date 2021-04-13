@@ -7,7 +7,7 @@
  */
 function classLoader($class)
 {
-    $class = str_replace('GlennZZ\\wechat\\', '', $class);
+    $class = str_replace('glennz\\wechat\\', '', $class);
     $path = str_replace('\\', DIRECTORY_SEPARATOR, $class);
     $file = __DIR__ . '/src/' . $path . '.php';
     if (file_exists($file)) {
