@@ -1,5 +1,5 @@
 {
-  "name": "luweiss/wechat",
+  "name": "GlennZZ/wechat",
   "description": "Wechat",
   "license": "MIT",
   "authors": [
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "luweiss\\wechat\\": "src/"
+      "GlennZZ\\wechat\\": "src/"
     }
   }
 }

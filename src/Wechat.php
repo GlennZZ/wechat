@@ -1,6 +1,6 @@
 <?php
 
-namespace luweiss\wechat;
+namespace GlennZZ\wechat;
 
 use Curl\Curl;
 use Doctrine\Common\Cache\FilesystemCache;
